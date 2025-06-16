@@ -15,7 +15,7 @@ This is a **simple JavaScript practice project** that allows users to select foo
 ---
 ## 📸 Preview
 
-![Preview](/Assets/preview(2).gif)
+![Preview](./Assets/preview.gif)
 
 ---
 
